@@ -52,9 +52,14 @@
     "typescript-eslint": "^8.23.0"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.40.0"
+    "@barba/core": "^2.10.3",
+    "@finsweet/ts-utils": "^0.40.0",
+    "gsap": "^3.13.0",
+    "hls.js": "^1.6.5",
+    "three": "^0.177.0",
+    "virtual-scroll": "^2.2.1"
   },
   "engines": {
-    "pnpm": ">=10"
+    "pnpm": ">=9"
   }
 }
