@@ -17,6 +17,11 @@ export const ACCORDION_EVENTS: Record<string, AccordionEvent> = {
     displayName: 'Rae Sremmurd w/ No Strings, TGUT, Madison LST, Kazi',
     description: 'Fight Night at 99 Scott AVe',
   },
+  SBTRKT: {
+    id: 'sbtrkt',
+    displayName: 'SBTRKT w/ Toribio, Moma Ready, Kilopatrah, Doctor Jeep, Villager',
+    description: 'Car Park',
+  },
   vtss: {
     id: 'vtss',
     displayName: 'VTSS w/ Baauer, Moma Ready, girl_irl, Lisas',
